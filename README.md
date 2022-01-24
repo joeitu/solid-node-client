@@ -62,7 +62,7 @@ The username/password method only works on an Node Solid Server([NSS]()) (such a
 
 ### Authentication using a JSON Token
 
-The JSON token method works on either NSS servers or [ESS]() servers. 
+The JSON token method works on either CSS, NSS or [ESS]() servers. 
 
 1. Install an app to get tokens
 ```
